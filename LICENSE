@@ -1,0 +1,233 @@
+# InkLex Proprietary Software License Agreement
+# 墨词 InkLex 专有软件许可协议
+
+Version：1.0
+Effective Date：2026-10-08
+
+Licensor / 许可方：
+The rights holder of InkLex, publishing under the name “OneCat”
+InkLex 唯一权利人，以“OneCat”名义公开发布
+
+Products：
+InkLex / 墨词 InkLex
+InkLex Pro / 墨词 InkLex Pro
+
+Contact：
+onecat77@163.com
+
+Copyright © 2026 the InkLex rights holder, publishing as OneCat.
+All rights reserved.
+
+## 1. 协议适用
+
+本协议适用于许可人正式提供的墨词 InkLex 及墨词 InkLex Pro 软件、更新版本以及随软件提供的由许可人享有权利的程序代码和资源，以下统称“本软件”。
+
+下载、安装或者使用本软件，即表示使用者按照本协议取得相应的软件使用许可。本协议不转让本软件的所有权、著作权或者其他知识产权。
+
+## 2. 软件使用许可
+
+在遵守本协议的前提下，许可人授予使用者一项有限的、非独占的、不可转让且不可再许可的软件使用权，使使用者可以安装和运行其合法取得的 InkLex 官方软件副本。
+
+除本协议明确授予的使用权外，其他权利均由许可人保留。
+
+## 3. Free 版本
+
+InkLex Free 可以由许可人免费向最终用户提供。
+
+**“免费提供”仅表示使用者无需为取得该版本的软件使用权支付软件购买费用，不表示本软件属于开源软件、自由软件或公共领域，也不表示许可人授予了复制、修改、制作衍生作品、重新分发、再许可、出售或者商业化利用 InkLex 自有代码的权利。**
+
+InkLex Free 不需要 InkLex Pro License Key。
+
+## 4. InkLex Pro 与授权激活
+
+InkLex Pro 的付费功能可能要求有效的 InkLex Pro License Key、设备授权以及有效的本地或服务器授权状态。
+
+License Key 仅用于确认合法取得的 InkLex Pro 功能使用权，不代表本软件著作权、源代码所有权或者其他知识产权的转让。
+
+当 InkLex Pro 不具有有效的 Pro 授权时，软件可以按照产品设计仅提供 InkLex Free 所具有的功能。
+
+未经许可，不得出售、转让、共享、出租或者以其他方式向第三方提供 InkLex Pro License Key 或相关授权凭据。
+
+## 5. 所有权与知识产权
+
+除明确标识为第三方材料的部分外，InkLex 的自有程序代码、界面设计、产品结构、软件资源、文案及其他依法受到保护的内容，其相关权利由许可人或相应权利人享有。
+
+取得、下载、安装、购买或使用 InkLex 均不构成本软件所有权或知识产权的转让。
+
+## 6. 禁止行为
+
+除非事先取得许可人的明确书面授权，或者适用法律明确规定不得通过合同排除，下列行为均不被本协议授权：
+
+1. 将 InkLex 全部或部分自有程序代码复制、提取或者整合进其他软件、插件、服务或产品；
+2. 修改、改编、翻译 InkLex 自有代码，或者基于其制作向第三方提供的衍生软件或衍生产品；
+3. 对 InkLex 或其修改版本进行重新分发、公开发布、镜像、转售、出租、再许可、白标、改名包装或者以其他方式向第三方提供；
+4. 将 InkLex 全部或部分自有代码用于开发、运营、提供或者销售其他软件产品，包括竞争性产品；
+5. 删除、隐藏或者故意篡改软件中依法保留的版权、许可或权利声明；
+6. 规避、破坏或者帮助第三方规避 InkLex Pro 的授权验证、设备限制或其他用于保护付费功能的技术措施；
+7. 对软件进行反编译、反汇编或者其他逆向工程，但适用法律明确规定相关行为不得被合同禁止的情形除外。
+
+通过 InkLex 正常设置、主题、用户数据、词书、词卡、AI Provider 或其他正式产品接口进行配置，不属于上述禁止修改行为。
+
+## 7. 公开可见的源代码
+
+如果许可人未来为了代码审阅、平台审核、构建、技术交流或其他目的公开提供 InkLex 的部分源代码，**代码可以被查看并不当然意味着该代码成为开源软件。**
+
+除非某个文件、目录或发行版本明确附带另一份许可证，否则其中属于 InkLex 的自有代码仍受本协议约束。
+
+未经授权，不得因为代码可以公开查看而将其复制、修改、重新分发、出售、再许可或用于其他产品。
+
+## 8. 第三方软件、数据和其他材料
+
+InkLex 可能包含或随软件提供第三方软件库、开放数据、词典数据或其他第三方材料。
+
+这些材料继续分别适用其原有许可证、版权声明和其他权利条款。
+
+**本协议仅约束 InkLex 自有部分，不扩大、减少或者取代任何第三方许可证赋予使用者的权利。**
+
+如第三方材料的许可证与本协议存在差异，对该第三方材料应以其自身许可证为准。
+
+## 9. 用户数据
+
+本协议不会因为使用 InkLex 而将使用者自行创建、导入或保存的词书、词卡、笔记、文章、配置及其他用户内容的权利转移给许可人。
+
+InkLex 对用户数据的读取、保存和处理仍受软件实际功能设计及适用法律约束。
+
+## 10. 更新与新版本
+
+许可人可以自行决定是否提供错误修复、功能更新或者新版本。
+
+除非更新或新版本明确附带不同的许可条款，否则其 InkLex 自有部分继续适用本协议。
+
+许可协议发生修改时，应通过新的版本号或生效日期予以识别。
+
+## 11. 终止
+
+如果使用者严重违反本协议所授予的软件使用范围，许可人可以依法终止相应的软件使用许可。
+
+许可终止后，使用者应停止继续实施违反本协议的软件复制、分发、再许可、出售或其他未经授权的行为。
+
+许可终止本身不转移或者消灭使用者对其合法用户数据所享有的权利。
+
+## 12. 法定权利保留
+
+本协议不排除、不限制适用法律明确规定且依法不得通过合同排除或限制的权利。
+
+本协议中的任何条款均不应解释为许可人取得第三方材料原权利人或者使用者自身内容的权利。
+
+## 13. 联系方式
+
+有关本协议、InkLex 软件许可或者 InkLex Pro 授权的问题，可联系：
+
+**onecat77@163.com**
+
+---
+
+# English Version
+
+## InkLex Proprietary Software License Agreement
+
+**Version 1.0**
+**Effective Date: 2026-10-08**
+
+Licensor: **The rights holder of InkLex, publishing under the name “OneCat”**
+Products: **InkLex / 墨词 InkLex; InkLex Pro / 墨词 InkLex Pro**
+Contact: **onecat77@163.com**
+
+Copyright © 2026 the InkLex rights holder, publishing as OneCat.
+All rights reserved.
+
+### 1. Scope
+
+This Agreement applies to official copies of InkLex and InkLex Pro provided by the Licensor, including updates and Licensor-owned software code and resources distributed with the Software.
+
+Downloading, installing, or using the Software grants only the rights expressly provided under this Agreement. Ownership, copyright, and other intellectual-property rights in the Software are not transferred.
+
+### 2. License Grant
+
+Subject to compliance with this Agreement, the Licensor grants the user a limited, non-exclusive, non-transferable and non-sublicensable right to install and run lawfully obtained official copies of InkLex.
+
+All rights not expressly granted are reserved.
+
+### 3. InkLex Free
+
+InkLex Free may be provided to end users without charge.
+
+**Availability without charge does not make InkLex open-source software, free software, or public-domain software, and does not grant any right to copy, modify, create derivative products from, redistribute, sublicense, sell, or otherwise commercially exploit InkLex-owned code.**
+
+InkLex Free does not require an InkLex Pro License Key.
+
+### 4. InkLex Pro and Activation
+
+Access to InkLex Pro features may require a valid InkLex Pro License Key, device authorization, and valid local or server-side authorization status.
+
+A License Key authorizes use of applicable Pro functionality only. It does not transfer copyright, source-code ownership, or any other intellectual-property rights.
+
+Where no valid Pro authorization is available, InkLex Pro may operate with only the capabilities available in InkLex Free.
+
+License Keys and authorization credentials may not be sold, transferred, shared, rented, or otherwise supplied to third parties without authorization.
+
+### 5. Ownership
+
+Except for materials expressly identified as third-party materials, rights in InkLex-owned source code, software resources, interface designs, product structures, text, and other protected materials remain with the Licensor or the applicable rights holder.
+
+Downloading, installing, purchasing, or using InkLex does not transfer ownership of the Software or its intellectual property.
+
+### 6. Restrictions
+
+Unless expressly authorized in writing by the Licensor, or to the extent such restriction is prohibited by mandatory applicable law, the user may not:
+
+1. copy, extract, or incorporate all or part of InkLex-owned code into another software product, plugin, service, or product;
+2. modify, adapt, translate, or create derivative software based on InkLex-owned code for provision to third parties;
+3. redistribute, publicly publish, mirror, resell, rent, sublicense, white-label, rebrand, repackage, or otherwise provide InkLex or a modified version to third parties;
+4. use all or part of InkLex-owned code to develop, operate, provide, or sell another software product, including a competing product;
+5. remove, conceal, or intentionally alter applicable copyright, license, or rights notices;
+6. circumvent, defeat, or assist another person in circumventing InkLex Pro licensing, device limits, or other technical measures protecting paid functionality; or
+7. decompile, disassemble, or otherwise reverse engineer the Software, except where applicable law expressly provides that such activity may not be contractually prohibited.
+
+Configuration performed through InkLex's ordinary settings, themes, user data, word books, word cards, AI providers, or other official product interfaces is not treated as prohibited modification under this Section.
+
+### 7. Publicly Viewable Source Code
+
+If the Licensor later makes part of the InkLex source code publicly viewable for review, platform approval, building, technical discussion, or another purpose, **public visibility does not by itself make that code open-source software.**
+
+Unless a file, directory, or release is expressly distributed under a different license, InkLex-owned code remains subject to this Agreement.
+
+### 8. Third-Party Materials
+
+InkLex may contain or be distributed with third-party libraries, open data, dictionary data, or other third-party materials.
+
+Such materials remain subject to their respective licenses, copyright notices, and other applicable terms.
+
+**This Agreement applies only to InkLex-owned materials and does not expand, restrict, or replace rights granted under a third-party license.**
+
+Where a third-party license differs from this Agreement, that third-party license governs the applicable third-party material.
+
+### 9. User Content and Data
+
+This Agreement does not transfer to the Licensor ownership of word books, word cards, notes, articles, settings, or other content lawfully created, imported, or stored by the user through InkLex.
+
+### 10. Updates and New Versions
+
+The Licensor may choose whether to provide bug fixes, feature updates, or new versions.
+
+Unless an update or new version is expressly accompanied by different license terms, its InkLex-owned portions remain subject to this Agreement.
+
+Any revision of this Agreement should be identified by a new version number or effective date.
+
+### 11. Termination
+
+If the user materially exceeds or violates the rights granted under this Agreement, the applicable software license may be terminated as permitted by law.
+
+Termination does not transfer or extinguish the user's rights in the user's lawful data.
+
+### 12. Mandatory Rights
+
+Nothing in this Agreement excludes or restricts any right that applicable law expressly provides may not be excluded or restricted by contract.
+
+Nothing in this Agreement transfers to the Licensor rights belonging to third-party rights holders or to users in their own content.
+
+### 13. Contact
+
+Questions concerning this Agreement, InkLex licensing, or InkLex Pro authorization may be sent to:
+
+**onecat77@163.com**

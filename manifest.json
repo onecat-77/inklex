@@ -1,0 +1,9 @@
+{
+  "id": "yinyue-inklex",
+  "name": "InkLex",
+  "version": "1.0.0",
+  "minAppVersion": "1.11.4",
+  "description": "Look up English words, highlight vocabulary, and build your own English word library in Obsidian.",
+  "author": "OneCat",
+  "isDesktopOnly": false
+}
