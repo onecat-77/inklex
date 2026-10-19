@@ -15,6 +15,7 @@ The Community plugin provides **InkLex Free**. Free can be used without purchasi
 - Mastery tracking
 - Word and sentence pronunciation
 - CSV and Markdown vocabulary import
+- Complete InkLex vocabulary and learning-data backup, import, export, and confirmed restore
 
 AI-assisted features require you to configure an AI service. Available pronunciation depends on your device and pronunciation settings.
 
@@ -49,6 +50,10 @@ External support links open their destination when you choose to follow them.
 ## External file access
 
 InkLex Free does not provide local MDX/MDD dictionary access. When you explicitly choose a CSV or Markdown import file, InkLex reads that selected file to import vocabulary. The selected file may be outside your Vault.
+
+On desktop, automatic backups write InkLex vocabulary and learning data to the operating system's application-data directory outside the Vault. Mobile backups use device-local storage. These backups do not sync with the Vault. The system may clear mobile backups, so export important copies.
+
+Backup import reads the file you select. Backup export uses the system save or share interface for the destination you choose. Restoring a backup requires explicit confirmation and replaces the InkLex vocabulary and learning data covered by that backup.
 
 ## Privacy
 

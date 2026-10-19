@@ -28,8 +28,6 @@ references, selected multiword lexical-entry hints, and direct exceptional-form
 evidence for local AI generation. No user dictionary, MDX/MDD content, or user
 vocabulary data is included.
 
-The separate lexical-relation asset and runtime are not included in InkLex Free.
-
 The underlying Princeton WordNet license and notice remain applicable to the
 underlying data. The complete notice is provided in
 `THIRD_PARTY_LICENSES/PRINCETON-WORDNET-WNDB-LICENSE.txt`. Open English
