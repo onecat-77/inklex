@@ -14,6 +14,9 @@ The Community plugin provides **InkLex Free**. Free can be used without purchasi
 - Patterns, collocations, and ordinary contexts
 - Mastery tracking
 - Word and sentence pronunciation
+- Optional automatic pronunciation when lookup results or hover cards open
+- User-configured online dictionary results and lookup-source ordering
+- A configurable InkLex vocabulary folder location inside your Vault
 - CSV and Markdown vocabulary import
 - Complete InkLex vocabulary and learning-data backup, import, export, and confirmed restore
 
@@ -41,13 +44,16 @@ InkLex Free includes lexical evidence derived from **Open English WordNet 2025**
 
 - **AI features:** When you configure and use an AI feature, InkLex sends the data needed for that request directly to your chosen AI service. Depending on the feature, this can include the queried word or sentence, the relevant prompt and reading context, and lexical evidence or source labels when required. Your API key authenticates requests to that service; it is not sent to an InkLex server.
 - **AI connection test:** The Settings connection test sends a small test request to the AI endpoint you configured.
-- **Online word pronunciation:** If you configure an HTTP(S) audio URL template, InkLex sends the current word to that endpoint to request audio when online pronunciation is selected, or as a fallback when System TTS is unavailable. The provider can receive the requested word and normal network request information.
-- **Sentence pronunciation:** Complete English sentences use System TTS and are never sent to the online word pronunciation template. If System TTS is unavailable, sentence pronunciation is unavailable. System speech services are controlled by your device and operating system.
+- **Online dictionaries:** InkLex does not supply a default dictionary endpoint. When you configure and use a compatible online dictionary interface, the queried word or text is sent directly to that address. The provider can receive the query and normal network request information. Results are for viewing only and cannot be collected into word cards.
+- **Online pronunciation:** If you configure an HTTP(S) audio URL template, InkLex can send the current word, phrase, or English sentence to that endpoint for audio, according to your pronunciation preference and fallback settings. This also applies when an optional automatic-pronunciation switch is enabled; both switches are off by default. The provider can receive the spoken text and normal network request information. Your endpoint must support the requested text.
+- **System pronunciation:** System speech services are controlled by your device and operating system.
 - **Free licensing:** InkLex Free does not connect to the InkLex License Server and does not require an InkLex License Key.
 
 External support links open their destination when you choose to follow them.
 
 ## External file access
+
+The InkLex vocabulary folder location can be changed to another ordinary folder inside the current Vault. Move the existing folder yourself, then select its new location in Settings; this setting does not move or merge existing files.
 
 InkLex Free does not provide local MDX/MDD dictionary access. When you explicitly choose a CSV or Markdown import file, InkLex reads that selected file to import vocabulary. The selected file may be outside your Vault.
 
